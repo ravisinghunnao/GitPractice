@@ -17,6 +17,7 @@ namespace GitPractice.Controllers
         {
             string name = "Rupesh";
             string city = "Pune";
+            int age = 24;
             string state = "Maharashtra";
             string country = "India";
             return View();
