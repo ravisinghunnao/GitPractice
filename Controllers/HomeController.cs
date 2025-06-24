@@ -15,7 +15,6 @@ namespace GitPractice.Controllers
 
         public IActionResult Index()
         {
-            throw new Exception("for test purpose.");
             return View();
         }
 
