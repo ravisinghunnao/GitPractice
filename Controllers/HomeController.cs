@@ -15,6 +15,7 @@ namespace GitPractice.Controllers
 
         public IActionResult Index()
         {
+            string name = "Rupesh";
             return View();
         }
 
